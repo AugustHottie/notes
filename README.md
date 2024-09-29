@@ -106,7 +106,9 @@ Visit `http://127.0.0.1:5000/` in your browser to see the app in action!
 
 **View All Notes**:
 
-   You can view all saved notes by going to `http://127.0.0.1:5000/notes_index`.
+You can view all saved notes by going to `http://127.0.0.1:5000/notes`.
+
+![image](https://github.com/user-attachments/assets/c6d70f97-0014-4a90-89c5-edbd503fab0c)
 
 ---
 
