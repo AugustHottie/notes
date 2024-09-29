@@ -15,7 +15,7 @@ Before you begin, ensure that you have the following installed:
 - **PostgreSQL** for database management
 - **Docker** (if setting up PostgreSQL through Docker)
 
-If you don't have PostgreSQL set up locally, you can refer to the [PostgreSQL Setup Guide](#setting-up-postgresql) to create a CentOS server and install PostgreSQL using Docker.
+If you don't have PostgreSQL set up locally, you can refer to the [PostgreSQL Setup Guide](https://www.postgresql.org/docs/current/tutorial-install.html) to create a CentOS server and install PostgreSQL using Docker.
 
 ---
 
@@ -59,10 +59,6 @@ notes/
 ├── /static        # Holds static assets like CSS, JavaScript for the app's front-end.
 └── /templates     # Directory for HTML templates
 ```
-
-## Setting Up PostgreSQL
-
-If you don't have PostgreSQL installed, follow the [PostgreSQL Setup](#setting-up-postgresql) instructions to get the database running.
 
 ### Creating the `notes` Database
 
